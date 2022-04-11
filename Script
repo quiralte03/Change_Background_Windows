@@ -1,0 +1,32 @@
+REM Author: Nacho Quiralte Perez
+REM Date: 04/08/2022
+REM Rember: Use It Wisely | Windows Only | Chrome Only
+
+DELAY 100
+GUI r
+DELAY 100
+STRING cmd
+DELAY 100
+ENTER
+DELAY 100
+STRING start chrome https://img.wallpapersafari.com/desktop/1536/864/93/65/qDrdRt.jpg
+DELAY 100
+ENTER
+DELAY 300
+CTRL s
+DELAY 300
+ENTER
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+ENTER
+DELAY 100
+UPARROW
+DELAY 100
+ENTER
+DELAY 500
+ALT j
+DELAY 300
+STRING b
