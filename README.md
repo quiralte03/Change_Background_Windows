@@ -13,7 +13,7 @@ When using this prank, we have to keep in mind that what we are doing can be tak
 
 
 * USE OF THE PROGRAM
-In order to use the program you will need to have Chrome on your computer, since the program was written for Chrome users, since it is the most used browser. In order to  use the program on your Rubber Ducky, you will need to remove the micro sd from your Ducky and use a micro sd reader, a usb adapter will work perfectly. After downloading the .bin (https://github.com/quiralte03/Change_Background_Windows/blob/a61a1d7cd044f81b833965bdda969440db616ae1/Ducky_Background_Change_Windows.bin) in this post, just add it to the micro sd, and install the micro sd back into Ducky. Now it only remains to put it on your computer and check that it works.
+In order to use the program you will need to have Chrome on your computer, since the program was written for Chrome users, since it is the most used browser. In order to  use the program on your Rubber Ducky, you will need to remove the micro sd from your Ducky and use a micro sd reader, a usb adapter will work perfectly. After downloading the .bin in this post, just add it to the micro sd, and install the micro sd back into Ducky. Now it only remains to put it on your computer and check that it works.
 
 
 -- More info about the Rubber Ducky in https://docs.hak5.org/usb-rubber-ducky-1/ --
