@@ -1,2 +1,2 @@
-# Change_Background_Windows
-Program to Change Background of a Windows system
+# Change Background Windows
+Program to Change Background of a Windows system with a Rubber Ducky.
